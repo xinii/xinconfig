@@ -1,0 +1,9 @@
+[submodule "emacs"]
+	path = emacs
+	url = https://github.com/xinii/config-emacs.git
+[submodule "fish"]
+	path = fish
+	url = https://github.com/xinii/config-fish.git
+[submodule "shell"]
+	path = shell
+	url = https://github.com/xinii/config-shell.git
